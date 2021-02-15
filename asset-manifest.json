@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/usamap/static/css/main.37f1151c.chunk.css",
+    "main.js": "/usamap/static/js/main.cac0900b.chunk.js",
+    "main.js.map": "/usamap/static/js/main.cac0900b.chunk.js.map",
+    "runtime-main.js": "/usamap/static/js/runtime-main.597436a4.js",
+    "runtime-main.js.map": "/usamap/static/js/runtime-main.597436a4.js.map",
+    "static/js/2.0921b49e.chunk.js": "/usamap/static/js/2.0921b49e.chunk.js",
+    "static/js/2.0921b49e.chunk.js.map": "/usamap/static/js/2.0921b49e.chunk.js.map",
+    "static/js/3.1f3bb2e8.chunk.js": "/usamap/static/js/3.1f3bb2e8.chunk.js",
+    "static/js/3.1f3bb2e8.chunk.js.map": "/usamap/static/js/3.1f3bb2e8.chunk.js.map",
+    "index.html": "/usamap/index.html",
+    "static/css/main.37f1151c.chunk.css.map": "/usamap/static/css/main.37f1151c.chunk.css.map",
+    "static/js/2.0921b49e.chunk.js.LICENSE.txt": "/usamap/static/js/2.0921b49e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.597436a4.js",
+    "static/js/2.0921b49e.chunk.js",
+    "static/css/main.37f1151c.chunk.css",
+    "static/js/main.cac0900b.chunk.js"
+  ]
+}
